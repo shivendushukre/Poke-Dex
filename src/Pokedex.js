@@ -105,7 +105,8 @@ const Pokedex = (props) => {
                                 flexGrow: 1,
                             }}
                         >
-                            <img src={pokedex} style={{ height: '18px' }} />
+                            <img src={pokedex} style={{ height: '18px' }}
+                                alt="Pokedex" />
                             Poke-Dex
                         </Typography>
                         <div className={classes.searchContainer}>
