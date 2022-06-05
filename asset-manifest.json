@@ -1,11 +1,11 @@
 {
   "files": {
-    "main.js": "/Poke-Dex/static/js/main.6b85f546.js",
+    "main.js": "/Poke-Dex/static/js/main.0a36c23d.js",
     "static/media/pokedex.png": "/Poke-Dex/static/media/pokedex.e8ab5e73a8693a7886e9.png",
     "index.html": "/Poke-Dex/index.html",
-    "main.6b85f546.js.map": "/Poke-Dex/static/js/main.6b85f546.js.map"
+    "main.0a36c23d.js.map": "/Poke-Dex/static/js/main.0a36c23d.js.map"
   },
   "entrypoints": [
-    "static/js/main.6b85f546.js"
+    "static/js/main.0a36c23d.js"
   ]
 }
