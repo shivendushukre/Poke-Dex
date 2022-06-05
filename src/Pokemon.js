@@ -18,6 +18,7 @@ const Pokemon = (props) => {
     const [pokemon, setPokemon] = useState(undefined);
     const navigate = useNavigate();
 
+
     useEffect(() => {
         axios
             .get(`https://pokeapi.co/api/v2/pokemon/${pokemonId}`)
